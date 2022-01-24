@@ -433,6 +433,8 @@ main {
 
     .main-video {
         width: 100%;
+        aspect-ratio: 4/5;
+        object-fit: cover;
     }
 
     .stories {
